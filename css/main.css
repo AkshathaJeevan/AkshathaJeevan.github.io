@@ -1,0 +1,21 @@
+
+*{
+ background-color:5f5f5f;
+}
+body {
+	font-family: Arial, sans-serif;
+    background:  transparent;
+	letter-spacing: 2px;
+    
+}
+#about {
+  float: none;
+	display: block;
+	text-align: center;
+	margin: 70px auto;
+
+}
+
+.img-circle {
+    border-radius: 100%;
+}
